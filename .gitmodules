@@ -4,3 +4,6 @@
 [submodule "shuttle-cch23-1"]
 	path = shuttle-cch23-1
 	url = git@github.com:thor314/shuttle-cch23-1.git
+[submodule "cch23-2"]
+	path = cch23-2
+	url = git@github.com:thor314/cch23-2.git

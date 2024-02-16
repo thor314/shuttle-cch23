@@ -19,3 +19,9 @@
 [submodule "cch23-08"]
 	path = cch23-08
 	url = git@github.com:thor314/cch23-08.git
+[submodule "cch23-11"]
+	path = cch23-11
+	url = git@github.com:thor314/cch23-11.git
+[submodule "cch23-12"]
+	path = cch23-12
+	url = git@github.com:thor314/cch23-12.git

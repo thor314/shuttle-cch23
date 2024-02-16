@@ -7,3 +7,15 @@
 [submodule "cch23-2"]
 	path = cch23-2
 	url = git@github.com:thor314/cch23-2.git
+[submodule "cch23-4"]
+	path = cch23-4
+	url = git@github.com:thor314/cch23-4.git
+[submodule "cch23-5"]
+	path = cch23-5
+	url = git@github.com:thor314/cch23-5.git
+[submodule "cch23-6"]
+	path = cch23-6
+	url = git@github.com:thor314/cch23-6.git
+[submodule "cch23-7"]
+	path = cch23-7
+	url = git@github.com:thor314/cch23-7.git
